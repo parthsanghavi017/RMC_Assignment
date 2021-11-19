@@ -16,3 +16,8 @@ print(bipepr_unique , ideb_unique)
 
 #Question 4
 print(length_bip + length_ide)
+
+
+
+list = ("UAA" ,"UGC","AUAGCT","ATUA","UAG")
+print('UAA' , list.count("UAA"))
